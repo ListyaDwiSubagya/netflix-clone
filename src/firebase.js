@@ -4,7 +4,7 @@ import { addDoc, collection, getFirestore } from "firebase/firestore";
 import { toast } from "react-toastify";
 
 const firebaseConfig = {
-  
+  // your firebase API
 };
 
 const app = initializeApp(firebaseConfig);

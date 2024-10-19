@@ -12,6 +12,7 @@ const TitleCards = ({title, category}) => {
     method: 'GET',
     headers: {
       accept: 'application/json',
+      // Your Authorization: 'Bearer 
     }
   };
   

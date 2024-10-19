@@ -19,6 +19,7 @@ const Player = () => {
     method: 'GET',
     headers: {
       accept: 'application/json',
+      // Your Authorization: 'Bearer 
     }
   };
   
